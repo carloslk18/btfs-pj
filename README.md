@@ -1,4 +1,4 @@
-# Better Than Sympla (BTFS)
+# Better Than F# Sympla
 
 **Better Than Sympla** is an experimental platform focused on **event discovery**.
 
