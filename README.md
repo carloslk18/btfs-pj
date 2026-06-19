@@ -22,7 +22,7 @@ Create a platform where users can:
 
 Instead of focusing only on **buying tickets**, the platform focuses on **discovering events**.
 
----nj
+---njjnhh
 
 ## Tech Stack
 
